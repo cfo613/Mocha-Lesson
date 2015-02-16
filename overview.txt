@@ -1,0 +1,13 @@
+Many different kinds of tests:
+- Acceptance tests: tests that program does exactly what it's supposed to do from a high level (usually based
+on user stories)
+- Unit tests: usually more granular; allow you to test a single piece of your code (e.g. a class, or methods /
+functions)
+- Other benefits: an easy way for someone else to figure out what your code is supposed to do (e.g. new
+team member); helps you think of edge cases
+
+Mocha.js = JS unit testing framework (supported on server side and browser side)
+
+Other unit testing frameworks: mini-test comes with Ruby, R-spec (for Ruby), Jasmine for JS
+
+Objective for today: demonstrate writing unit tests around an array
